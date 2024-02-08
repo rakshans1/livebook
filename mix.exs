@@ -101,7 +101,7 @@ defmodule Livebook.MixProject do
       {:telemetry_metrics, "~> 0.4"},
       {:telemetry_poller, "~> 1.0"},
       {:jason, "~> 1.0"},
-      {:plug_cowboy, "2.7"},
+      {:plug_cowboy, "~> 2.7"},
       {:plug_crypto, "~> 2.0"},
       {:earmark_parser, "~> 1.4"},
       {:castore, "~> 1.0"},
